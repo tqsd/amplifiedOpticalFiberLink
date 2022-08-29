@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Operating Fiber Networks in the Quantum Limit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Janis
+    family-names: Nötzel
+    email: janis.noetzel@tum.de
+    affiliation: >-
+      Emmy-Noether Group Theoretical Quantum Systems
+      Design at Technische Universität München
+    orcid: 'https://orcid.org/0000-0003-0091-3072'
+  - given-names: Matteo
+    family-names: Rosati
+    email: matt.rosati@gmail.com
+    orcid: 'https://orcid.org/0000-0002-8972-2936'
+    affiliation: Technische Universität Berlin
+date-released: 2022-08-29
+url: "https://github.com/tqsd/amplifiedOpticalFiberLink/"
